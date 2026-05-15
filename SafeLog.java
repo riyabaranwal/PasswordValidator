@@ -51,6 +51,7 @@ public class SafeLog{
         System.out.println("1. At least 8 characters long.");
         System.out.println("2. Contains at least one Uppercase letter.");
         System.out.println("3. Contains at least one Digit (0-9).");
+        System.out.println("4. Contains at least one Special character.");
         
         while(true){
             System.out.println();
